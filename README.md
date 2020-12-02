@@ -1,2 +1,3 @@
-# Profile_Project
- My profile project (teamtreehouse)
+My profile project (teamtreehouse)
+
+Checked on Google Chrome, Mozilla Firefox, Microsoft Edge
