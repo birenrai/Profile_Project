@@ -1,3 +1,3 @@
 My profile project (teamtreehouse)
 
-Checked on Google Chrome, Mozilla Firefox, Microsoft Edge
+#Checked on Google Chrome, Mozilla Firefox, Microsoft Edge
