@@ -217,7 +217,8 @@ a.social:hover {
   clear: both;
 }
 
-/* increasing padding on top of Highlights*/
+/* increasing padding on top of Highlights and Contact*/
+#contactmargin,
 #highlightmargin{
   margin-top: 60px;
 }
