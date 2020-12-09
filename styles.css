@@ -124,6 +124,7 @@ footer {
   width: 100%;
   min-height: 30px;
   padding: 20px 0 40px 20px;
+  margin: 0;
 }
 
 footer .copyright {
@@ -226,4 +227,17 @@ a.social:hover {
 /*Changing background color to grey*/
 #highlightsbody{
   background-color: lightgray;
+}
+
+.wrap {
+  min-height: calc(100vh - 139.85px) /*sticky footer*/
+}
+
+
+/* Media Queries */
+
+@media (min-width: 769px) {
+  .wrap {
+    min-height: calc(100vh - 139.85px) /*sticky footer*/
+  }
 }
